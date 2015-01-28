@@ -2299,7 +2299,7 @@ JSDAS.Parser = {
 		for(var iat=0, lenat=all_atts.length; iat<lenat && !found; ++iat) {
 		      var curr_att = all_atts[iat];
 		      if(new RegExp('^'+f.name+'$', 'i').test(curr_att.name)) {
-			    att = curr_att.nodeValue;
+			    att = curr_att.value;
 			    found = true;
 		      }
 		}
