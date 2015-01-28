@@ -5,7 +5,7 @@
     "see https://code.google.com/p/jsdas/people/list"
   ],
   "description": "Javascript client library for the Distributed Annotation System",
-  "main": "jsdas.0.0.6.min.js",
+  "main": "jsdas.1.0.0.min.js",
   "keywords": [
     "javascript",
     "das",

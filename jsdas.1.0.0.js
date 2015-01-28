@@ -17,7 +17,7 @@
 
 var JSDAS = function() {
 	//Private attributes
-	var version = '0.1';
+	var version = '1.0';
 
 	//Flags
 	var _debug= true;
